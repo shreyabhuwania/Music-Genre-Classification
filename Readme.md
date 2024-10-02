@@ -20,9 +20,9 @@ This project is a web-based application where users can record audio or upload p
 
 The project includes links to the notebooks for data preprocessing, model training, and testing. These steps involve feature extraction from audio files and training LSTM models for classification:
 
-- [Data Preprocessing and Feature Extraction](#link-to-data-preprocessing-notebook)
-- [Model Training using LSTM](#link-to-model-training-lstm-notebook)
-- [Model Testing and Evaluation](#link-to-model-testing-notebook)
+- [Data Preprocessing and Feature Extraction](#https://colab.research.google.com/drive/1JIbrvzVM3CRcM_E75q2Vb5UkWYu15EVJ)
+- [Model Training using LSTM](#https://colab.research.google.com/drive/1DmWMXBUgcYeGk11KBBjxzSgpreezN-3M#scrollTo=PhlXiyZ7xMsS)
+- [Model Testing and Evaluation](#https://colab.research.google.com/github/shreyabhuwania/Music-Genre-Classification/blob/main/Model_Testing.ipynb)
 
 ## Dataset
 
